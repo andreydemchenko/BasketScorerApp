@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BasketScorerApp</string>
+    <string name="visitor">Посетитель</string>
+    <string name="local" translatable="false">Местный</string>
+    <string name="visitor_won">Посетитель выиграл!</string>
+    <string name="it_was_a_tie">Это была ничья 😕</string>
+    <string name="local_won">Местный выиграл!</string>
+    <string name="local_vs_visitor">Местный - Посетитель</string>
+</resources>
